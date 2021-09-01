@@ -1,7 +1,7 @@
 const Clarifai = require("clarifai");
 
 const app = new Clarifai.App({
-  apiKey: "3677a7d035354333857bb9c650504167",
+  apiKey: "ADD YOUR API KEY",
 });
 
 const handleApiCall = (req, res) => {
